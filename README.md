@@ -41,7 +41,7 @@
 
  <a href="https://www.codewithharry.com/tutorial/react-home/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1200/1*y6C4nSvy2Woe0m7bWEn4BA.png" alt="python" width="40" height="40"/> </a> </p>
 
- <a href="https://www.codewithharry.com/tutorial/react-home/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLG6GPyvIeIyLGr1WmQdBbWFb7zqPmrHqUFhGEhU9Qg&s" width="80" height="50"/> </a> </p>
+ <a href="https://riptutorial.com/ebook/node-js" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgLG6GPyvIeIyLGr1WmQdBbWFb7zqPmrHqUFhGEhU9Qg&s" width="80" height="50"/> </a> </p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
