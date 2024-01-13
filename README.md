@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me:https://twitter.com/DurgaChaurasiy9 , [Youtub.@durgachaurasiya4339] https://www.youtube.com/@durgachaurasiya4339](@durgachaurasiya4339)
      LinkedIn:https://www.linkedin.com/in/durgawati-chaurasiya-22a260275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
      Instagram:https://www.instagram.com/divya_nagvanshe?igsh=cXcwazZxaWNuNXgz
+     https://github.com/6394981696
+  
 - 😄 Pronouns: He/Her
 - ⚡ Fun fact: ...
 
