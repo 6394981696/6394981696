@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://twitter.com/DurgaChaurasiy9" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Divya chaurasiya" height="30" width="40" /></a>
 <a href=" Instagram:https://www.instagram.com/divya_nagvanshe" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="simplified_learner" height="30" width="40" /></a>
-<a href=" https://www.youtube.com/@durgachaurasiya4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Divya Nagvanshe" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@durgachaurasiya4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Divya Nagvanshe" height="30" width="40" /></a>
 </p>
 
 <a href="  LinkedIn:https://www.linkedin.com/in/durgawati-chaurasiya" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Divya Nagvanshe" height="30" width="40" /></a>
