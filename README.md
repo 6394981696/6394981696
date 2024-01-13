@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif"  width="400" height="400"/> </p>
 ⚡ Fun fact **I am funny😅**
 
-<h3 align="rigth">Connect with me:</h3>
-<p align="rigth">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://twitter.com/DurgaChaurasiy9" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Divya chaurasiya" height="28" width="35" /></a>
 <a href="https://www.instagram.com/divya_nagvanshe?igsh=cXcwazZxaWNuNXgz" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="simplified_learner" height="28" width="35" /></a>
 <a href="http://www.youtube.com/@durgachaurasiya4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Divya Nagvanshe" height="28" width="55" /></a>
