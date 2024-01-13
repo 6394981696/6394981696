@@ -1,5 +1,5 @@
-### <h2>Hi there 👋I'm Divya Chaurasiya</h2>
-Here are some ideas to get you started:
+ <h1 align="center"> Hi there 👋I'm Divya Chaurasiya</h1>
+<h3 align="center"> A Passionate Software Engineer From India:</h3>
 
 - 🔭 I’m currently working on  Porfolio Profile
 - 🌱 I’m currently learning Frontend Development
