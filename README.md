@@ -28,12 +28,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/DurgaChaurasiy9" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Divya chaurasiya" height="30" width="40" /></a>
-<a href="https://www.instagram.com/divya_nagvanshe?igsh=cXcwazZxaWNuNXgz" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="simplified_learner" height="30" width="40" /></a>
-<a href="http://www.youtube.com/@durgachaurasiya4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Divya Nagvanshe" height="30" width="40" /></a>
+<a href="https://twitter.com/DurgaChaurasiy9" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-3.svg" alt="Divya chaurasiya" height="25" width="30" /></a>
+<a href="https://www.instagram.com/divya_nagvanshe?igsh=cXcwazZxaWNuNXgz" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/09/17/52/instagram-1581266_1280.jpg" alt="simplified_learner" height="25" width="30" /></a>
+<a href="http://www.youtube.com/@durgachaurasiya4339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Divya Nagvanshe" height="25" width="30" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/durgawati-chaurasiya-22a260275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Divya Nagvanshe" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/durgawati-chaurasiya-22a260275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Divya Nagvanshe" height="25" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
