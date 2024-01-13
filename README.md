@@ -12,7 +12,7 @@ Here are some ideas to get you started:
      LinkedIn:https://www.linkedin.com/in/durgawati-chaurasiya
      Instagram:https://www.instagram.com/divya_nagvanshe,
      https://github.com/6394981696
-     <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+     <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" height:100px width:100px>
   
   
 - 😄 Pronouns: He/Her
