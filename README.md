@@ -1,5 +1,5 @@
 ### <h2>Hi there 👋I'm Divya Chaurasiya</h2>
- <p align= "center"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style= height:300px width:300px /></p>
+ <p align= "center"> <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" style= height:300px width:500px /></p>
   
 
 Here are some ideas to get you started:
