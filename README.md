@@ -43,7 +43,7 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Naveen kumar's GitHub Stats, Rank: C+</title>
+        <title id="titleId">Durgawati Chaurasiya GitHub Stats, Rank: C+</title>
         <desc id="descId">Total Stars Earned: 6, Total Commits in 2024 : 237, Total PRs: 2, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
